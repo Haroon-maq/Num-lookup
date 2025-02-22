@@ -19,7 +19,7 @@ The Num-lookup is a Python script that allows you to search for information rela
 
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/USERNAME/REPOSITORY.git
+   git clone https://github.com/Haroon-maq/Num-lookup.git
 ## Usage
 1. cd Num-lookup
 2. python3 num-lookup.py
